@@ -10,6 +10,7 @@ import 'package:presence_absence/Screens/onBording.dart';
 
 
 void main() async {
+  ///
   WidgetsFlutterBinding.ensureInitialized();
   await SystemChrome.setPreferredOrientations([
     DeviceOrientation.portraitUp,
